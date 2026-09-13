@@ -50,22 +50,9 @@ Buscando minha primeira oportunidade em TI: estágio, jovem aprendiz ou júnior.
 ### 💬 AcolheAI
 Chatbot de apoio emocional em **Flask**, integrado à API da **Groq** (modelo LLaMA). Desenvolvi sozinho toda a aplicação: back-end, interface, prompts de IA, integrações e testes.
 
-### 📲 Automação para Telegram
-Scripts em **Python + Telethon** para automação de postagens, incluindo engenharia reversa de um app de clonagem automática para entender seu funcionamento e criar minha própria versão.
-
-### 🎨 Protótipo acessível (IHC)
-Protótipo em **Figma** pensado para usuários de leitor de tela, com foco em conformidade **WCAG** e boas práticas de acessibilidade.
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="left"> 
-  <img height="170" src="https://github-readme-stats-nine-liard-81.vercel.app/api?username=thiagorodrigues07&show_icons=true&theme=tokyonight&locale=pt-br" /> 
-  <img height="170" src="https://github-readme-stats-nine-liard-81.vercel.app/api/top-langs/?username=thiagorodrigues07&layout=compact&theme=tokyonight&locale=pt-br" /> 
-</p>
-
----
 
 ⭐ Se curtir algum projeto meu, deixa uma estrela
 🤝 Aberto a conversar sobre oportunidades e projetos

@@ -60,9 +60,9 @@ Protótipo em **Figma** pensado para usuários de leitor de tela, com foco em co
 
 ## 📊 Estatísticas do GitHub
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=thiagorodrigues07&show_icons=true&theme=tokyonight&locale=pt-br" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagorodrigues07&layout=compact&theme=tokyonight&locale=pt-br" />
+<p align="left"> 
+  <img height="170" src="https://github-readme-stats-nine-liard-81.vercel.app/api?username=thiagorodrigues07&show_icons=true&theme=tokyonight&locale=pt-br" /> 
+  <img height="170" src="https://github-readme-stats-nine-liard-81.vercel.app/api/top-langs/?username=thiagorodrigues07&layout=compact&theme=tokyonight&locale=pt-br" /> 
 </p>
 
 ---
